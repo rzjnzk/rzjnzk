@@ -5,7 +5,7 @@ I am in the early stages of building a startup. I will launch with a **QR orderi
 - Automation.
 - Performance.
 - Intuitive GUI and click minimisation.
-- Highly portable, POSIX-compliant shell scripts with a focus on precision and performance.
+- Highly portable, POSIX-compliant shell scripting with a focus on precision and performance.
 - Full-stack application development with React and Express.js.
 
 ## Public Contribution Stats
