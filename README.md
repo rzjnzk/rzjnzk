@@ -9,4 +9,4 @@ I am in the early stages of building a startup. I will launch with a **QR orderi
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rzjnzk) -->
 <!-- ![Most Used Languages in Public Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=rzjnzk) -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rzjnzk&theme=github-compact)]
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rzjnzk&theme=github-compact)
