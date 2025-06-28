@@ -6,7 +6,7 @@ I am in the early stages of building a startup. I will launch with a **QR orderi
 - Performance.
 - Intuitive GUI and click minimisation.
 - Highly portable, POSIX-compliant shell scripts with a focus on precision and performance.
-- Full-stack apps with React and Express.js.
+- Full-stack application development with React and Express.js.
 
 ## Public Contribution Stats
 
