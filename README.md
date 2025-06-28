@@ -13,4 +13,6 @@ I am in the early stages of building a startup. I will launch with a **QR orderi
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rzjnzk) -->
 <!-- ![Most Used Languages in Public Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=rzjnzk) -->
 <!-- https://github.com/rahul-jha98/github-stats-transparent -->
+![](https://raw.githubusercontent.com/rzjnzk/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/rzjnzk/github-stats-transparent/output/generated/languages.svg)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rzjnzk&theme=github-compact)
