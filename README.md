@@ -9,7 +9,7 @@ I am in the early stages of building a startup. I will launch with a **QR orderi
 - Full-stack application development with React and Express.js.
 
 ## Public and Private Contribution Statistics
-
+https://github.com/rzjnzk
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rzjnzk) -->
 <!-- ![Most Used Languages in Public Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=rzjnzk) -->
 <!--
@@ -20,7 +20,7 @@ Record the value below since, after the secret is set, it can not be viewed agai
 Current value:
 
 ```
-rzjnzk/unsorted, rzjnzk/minecraft-server-vanilla
+rzjnzk/unsorted, rzjnzk/minecraft-server-vanilla, rzjnzk/github-stats-transparent
 ```
  
 -->
