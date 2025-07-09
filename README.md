@@ -1,4 +1,4 @@
-I am in the early stages of building a startup. I will launch with a **QR ordering app** designed for hospitality venues, and plan to expand into other areas.
+I am in the early stages of building a startup. I will launch with a **QR ordering app** designed for hospitality venues, and plan to expand into other unrelated areas.
 
 ## Skills and Areas of Interest
 
